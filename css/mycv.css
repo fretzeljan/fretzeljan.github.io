@@ -1,0 +1,30 @@
+body {
+    background-color: darkturquoise;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+#banner {
+    background-color: #35A29F;
+    color: #97FEED;
+    padding: 30px;
+    background-image: url("https://emozzy.com/wp-content/uploads/2021/01/What-is-Life-2.jpg
+    position: relative;
+    overflow: auto;
+}
+.menuitem {
+    width : 165px;
+    float : left; 
+    background-color: #176B87;
+    list-style-type: none;
+    margin:4px;
+    padding: 10px;
+    text-align: center;
+    cursor:pointer;
+}
+
+#menulist li a {
+    color: white;
+    text-decoration: none;
+}
